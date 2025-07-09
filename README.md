@@ -1,4 +1,4 @@
 # sigma
 
 ## have sigma today
-(sigma)[https://google.com]
+[sigma](https://google.com)
